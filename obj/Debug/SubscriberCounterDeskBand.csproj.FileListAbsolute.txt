@@ -1,0 +1,12 @@
+D:\_vs\repos\SubscriberCounterDeskBand\obj\Debug\SubscriberCounterDeskBand.csproj.AssemblyReference.cache
+D:\_vs\repos\SubscriberCounterDeskBand\obj\Debug\SubscriberCounterDeskBand.csproj.CoreCompileInputs.cache
+D:\_vs\repos\SubscriberCounterDeskBand\bin\Debug\SubscriberCounterDeskBand.dll.config
+D:\_vs\repos\SubscriberCounterDeskBand\bin\Debug\SubscriberCounterDeskBand.dll
+D:\_vs\repos\SubscriberCounterDeskBand\bin\Debug\SubscriberCounterDeskBand.pdb
+D:\_vs\repos\SubscriberCounterDeskBand\obj\Debug\SubscriberCounterDeskBand.dll
+D:\_vs\repos\SubscriberCounterDeskBand\obj\Debug\SubscriberCounterDeskBand.pdb
+D:\_vs\repos\SubscriberCounterDeskBand\bin\Debug\Newtonsoft.Json.dll
+D:\_vs\repos\SubscriberCounterDeskBand\bin\Debug\Newtonsoft.Json.xml
+D:\_vs\repos\SubscriberCounterDeskBand\obj\Debug\SubscriberCounterDeskBand.BandControl.resources
+D:\_vs\repos\SubscriberCounterDeskBand\obj\Debug\SubscriberCounterDeskBand.csproj.GenerateResource.cache
+D:\_vs\repos\SubscriberCounterDeskBand\obj\Debug\SubscriberCounterDeskBand.csproj.CopyComplete
